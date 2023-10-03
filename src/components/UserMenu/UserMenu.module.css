@@ -1,0 +1,43 @@
+.wrapper {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.username {
+  font-weight: 700;
+}
+
+.logInUser {
+  color: rgb(0, 187, 255);
+}
+
+.btnLogin {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  background-color: rgba(40, 167, 69, 0.8);
+  border: none;
+  border-radius: 6px;
+  color: #fff;
+  flex-grow: 1;
+  font-family: 'SFProText-Regular', Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  height: 36px;
+  line-height: 20px;
+  margin-left: 8px;
+  margin-right: 6px;
+  min-width: 20px;
+  padding: 0 16px;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.btnLogin:hover {
+  background-color: rgba(40, 167, 69, 1);
+  cursor: pointer;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
