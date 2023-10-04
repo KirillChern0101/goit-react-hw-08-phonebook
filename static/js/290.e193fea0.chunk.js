@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_homework_template=self.webpackChunkreact_homework_template||[]).push([[290],{7290:function(e,t,c){c.r(t),c.d(t,{default:function(){return l}});c(2791);var n="Home_container__w+u63",r="Home_title__L087v",a=c(184);function l(){return(0,a.jsx)("div",{className:n,children:(0,a.jsx)("h1",{className:r,children:"Welcome \u30fd(\u30fb\u2200\u30fb)\uff89"})})}}}]);
+//# sourceMappingURL=290.e193fea0.chunk.js.map
