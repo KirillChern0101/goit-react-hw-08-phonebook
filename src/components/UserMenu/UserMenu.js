@@ -17,7 +17,7 @@ export const UserMenu = () => {
         type="button"
         onClick={() => dispatch(logOut())}
       >
-        Logout =>
+        Logout
       </button>
     </div>
   );
